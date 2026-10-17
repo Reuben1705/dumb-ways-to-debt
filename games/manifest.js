@@ -12,7 +12,7 @@
    'bettervalue',
    'billdodger',
   'contactless',
-   'debttugofwar'
+   'debttugofwar',
   'inboxrush',   // boss round: set boss: true in its register()
 ].forEach((name) => {
   document.write(`<script src="games/${name}.js"><\/script>`);
