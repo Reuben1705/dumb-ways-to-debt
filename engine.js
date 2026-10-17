@@ -1,5 +1,5 @@
 /* =========================================================
-   Dumb Ways to Lose Money: ENGINE
+   Dumb Ways to Debt: ENGINE
    Owner: Person 1. Microgames never need to edit this file.
 
    Flow:  title → [instruction → play → result] × N → bankrupt
