@@ -13,6 +13,7 @@
    'billdodger',
   'contactless',
    'debttugofwar',
+   'shoulder'
   'inboxrush',   // boss round: set boss: true in its register()
 ].forEach((name) => {
   document.write(`<script src="games/${name}.js"><\/script>`);
