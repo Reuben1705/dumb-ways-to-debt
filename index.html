@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Dumb Ways to Lose Money</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lilita+One&family=Nunito:wght@600;800&family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="game-root"></div>
+
+<!-- core -->
+<script src="sound.js"></script>
+<script src="input.js"></script>
+<script src="engine.js"></script>
+
+<!-- microgames (edit games/manifest.js to add more) -->
+<script src="games/manifest.js"></script>
+
+<script>Game.boot(document.getElementById('game-root'));</script>
+</body>
+</html>
