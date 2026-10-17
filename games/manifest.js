@@ -3,11 +3,13 @@
    Both index.html and test.html load games from here, so
    you only ever add a new game in this one place.
    ========================================================= */
-[
+[  
   'phishing',
   'impulse',
   'pumpdump',
   'compound',
+   'startup',
+   'bettervalue',
   // 'startup',
   // 'bettervalue',
   // 'contactless',
