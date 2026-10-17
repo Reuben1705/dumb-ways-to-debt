@@ -399,8 +399,8 @@
     el.screen.innerHTML = `
       <div class="title">
         <div class="mascot mascot-big bob">${face('happy')}</div>
-        <h1 class="wordmark">DUMB WAYS TO<br>LOSE MONEY</h1>
-        <p class="tagline">Two buttons. One wallet. Don't go broke.</p>
+        <h1 class="wordmark">DUMB WAYS<br>TO DEBT</h1>
+        <p class="tagline">Don't go broke!</p>
         <div class="start sticker">PRESS ← OR → TO START</div>
         <div class="title-keys sticker">← → keys, or tap either side</div>
         <div class="receipt-wrap title-board"><div class="receipt">
